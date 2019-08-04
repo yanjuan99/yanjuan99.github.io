@@ -1,11 +1,11 @@
 ---
 layout: post
-title: syscallhook
+title: 进程隐藏
 date: 2019-08-03
 tags: 博客    
 ---
 
-### 基于事件跟踪会话的syscallhook
+### 基于infinityhook的进程隐藏
 <img src="/images/A/test.gif" height="720" width="1200">
 
 ```
